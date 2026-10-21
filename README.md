@@ -75,11 +75,11 @@ Two potential N-glycosylation motifs were identified at positions 134 and 263. B
 
 ### Figure 1. Amino Acid Composition of CTSD
 
-**Figure 1.** Amino acid composition of the human CTSD protein showing the counts of the 20 standard amino acids.
+![CTSD Amino Acid Composition](CTSD%20Figure%202%20Amino%20Acid%20Composition.png)
 
 ### Figure 2. Potential N-Glycosylation Motifs of CTSD
 
-**Figure 2.** Positions of the two predicted N-glycosylation motifs along the 412-amino-acid CTSD protein sequence.
+![CTSD N-Glycosylation Motifs](CTSD%20Figure%201%20Glycosylation.png)
 
 ## 6\. Guide Questions and Answers
 
